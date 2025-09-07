@@ -1,0 +1,8 @@
+realtime-disaster/
+├─ package.json
+├─ server.js                # Express backend that proxies feeds
+├─ README.md
+└─ public/
+   ├─ index.html
+   ├─ styles.css
+   └─ app.js
